@@ -69,7 +69,7 @@
 <h3 align="left">Database :</h3>
 <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp;
-<a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a> &nbsp; &nbsp;
+<a href="ttps://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a> &nbsp;
 
 <h3 align="left">Tools & Technology :</h3>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp &nbsp;
