@@ -1,11 +1,8 @@
-### Hi there 👋
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Sudhanshu</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm Nikhil</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 
@@ -16,13 +13,11 @@
 
 
 
-- 🔭 I’m currently working on [Book Store Project](https://github.com/TheOfficialSiud/Book-store.git)
+- 🔭 I’m currently working on [Complaint Box Project](https://github.com/saxena-nikhil738/complaint-box-v2)
 
 - 🌱 I’m currently learning **full stack development on MERN**
 
-- 👯 I’m looking to collaborate on [GetDeLost](https://github.com/TheOfficialSiud/GetDeLost-edit)
-
-- 💬 Ask me about **C++, JAVA, Problem Solving, SQL, MERN**
+- 💬 Ask me about **C++, Python, Java, Problem Solving, SQL, MERN**
 
 - ⚡ Fun fact **I even comfortable with technologies that I hardly heard of!**
 <hr/>
@@ -30,7 +25,7 @@
 <details>
 <summary align="center"><h3 style="display: inline;">More About Me ⬇️ </h3></summary>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theofficialsiud" alt="theofficialsiud" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saxena-nikhil738" alt="saxena-nikhil738" /></a> </p>
 
 <hr/>
 
@@ -40,21 +35,15 @@
 
 </p>
 <p align="left">
-    <a href="https://linkedin.com/in/sudhanshu-tripathi-143615222" target="blank"><img align="center" 
+    <a href="https://www.linkedin.com/in/saxena-nikhil738/" target="blank"><img align="center" 
             src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
             height="30" width=" 140" /></a>
-    <a href="https://www.leetcode.com/officialsiud" target="_blank" rel="noreferrer"><img align="center"
+    <a href="https://leetcode.com/nikhil-saxena/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
-            alt="officialsiud" height="30" width="140" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/stmc21128" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-            alt="stmc21128" height="30" width="100" /></a>
-    <a href="https://www.hackerrank.com/stmc21128" target="_blank" rel="noreferrer"><img align="center"
+            alt="nikhil-saxena" height="30" width="140" /></a>
+    <a href="https://www.hackerrank.com/profile/nsmc21129" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/HackerRank-6fb107?style=for-the-badge&logo=hackerRank&logoColor=white"
-            alt="stmc21128" height="30" width="150" /></a>
-    <a href="https://www.codechef.com/users/officialsiud" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/Codechef-964b00?style=for-the-badge&logo=codechef&logoColor=white" 
-            alt="officialsiud" height="30"width="140" /></a>
+            alt="nsmc21129" height="30" width="150" /></a>
 
 </p>
 
