@@ -83,7 +83,7 @@
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-nikhil738&" alt="saxena-nikhil738" /></p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/officialsiud?&font=patrick_hand&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/nikhil-saxena?&font=patrick_hand&extension=null)
 
 
 <hr/>
