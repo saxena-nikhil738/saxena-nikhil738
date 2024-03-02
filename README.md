@@ -81,7 +81,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saxena-nikhil738&show_icons=true&locale=en" alt="saxena-nikhil738" /></p>
 <hr/>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=theofficialsiud&" alt="theofficialsiud" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=saxena-nikhil738&" alt="saxena-nikhil738" /></p>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/officialsiud?&font=patrick_hand&extension=null)
 
