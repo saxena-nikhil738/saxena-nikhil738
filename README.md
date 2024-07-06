@@ -54,7 +54,10 @@
 <h2 align="left">Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <h3 align="left">Language :</h3>
-<a  target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0" alt="c" width="40" height="40"/> </a>&nbsp &nbsp;
+<!-- <a  target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.85af98e96c6edbee0c7a69afe502b20a?rik=9tAtOTG8TQSq1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fletter_c%2fletter_c_PNG22.png&ehk=LiVjyf44Il9Q6Wez9JeKr6RHXf7vRDuJMHXGjZ%2bjwR8%3d&risl=&pid=ImgRaw&r=0" alt="c" width="40" height="40"/> </a>&nbsp &nbsp; -->
+<a target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
+</a>&nbsp;&nbsp;
 <a href="https://docs.python.org/3/"> <img width ='40px' align='left' src ='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt="Python" width="40" height="40"> </a> &nbsp &nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40" height="40"/> </a> &nbsp;
 
