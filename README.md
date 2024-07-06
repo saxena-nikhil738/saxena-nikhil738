@@ -71,8 +71,8 @@
 
 <h3 align="left">Database :</h3>
 <a href="https://www.mongodb.com/docs/manual"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40px" align='left'> </a> &nbsp;
-<a href="https://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a>;
-<!-- <a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp; -->
+<a href="https://expressjs.com/" > <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="ExpressJS" width="50px" align='left'> </a>
+<a href="https://nodejs.org/en/docs/" > <img src="https://img.icons8.com/color/344/nodejs.png" alt="NodeJS" width="50px" align='left'> </a> &nbsp;
 
 
 
